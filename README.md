@@ -3,7 +3,7 @@
 
 #### By _**Yoonis Ali and Sonny Snyder**_
 
-#### _Vacation webpage _
+#### _Vacation webpage_
 
 ## Technologies Used
 
@@ -18,7 +18,7 @@ _This is a vacation website that has package deals for a trip to Ukraine._
 ## Setup/Installation Requirements
 
 * _Clone git repository_
-* _Open vacationsite.html
+* _Open vacationsite.html_
 
 
 ## Known Bugs
