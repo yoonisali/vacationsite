@@ -1,5 +1,5 @@
 
-# _{Vacation Site}_
+# _Vacation Site_
 
 #### By _**Yoonis Ali and Sonny Snyder**_
 
